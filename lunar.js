@@ -5178,6 +5178,8 @@
           }
           index = right.indexOf(day+'=');
         }
+        // 空值过滤：去除空字符串或仅空白项，避免展示问题
+        l = l.filter(function(item){ return item && (''+item).trim().length>0; });
         if(l.length<1){
           l.push(this.SHEN_SHA[0]);
         }
@@ -5214,6 +5216,8 @@
           }
           index = right.indexOf(day+'=');
         }
+        // 空值过滤：去除空字符串或仅空白项，避免展示问题
+        l = l.filter(function(item){ return item && (''+item).trim().length>0; });
         if(l.length<1){
           l.push(this.SHEN_SHA[0]);
         }
@@ -5284,6 +5288,8 @@
             l.push(this.YI_JI[parseInt(ys.substring(i, i+2), 16)]);
           }
         }
+        // 空值过滤：去除空字符串或仅空白项，避免展示问题
+        l = l.filter(function(item){ return item && (''+item).trim().length>0; });
         if(l.length<1){
           l.push(this.SHEN_SHA[0]);
         }
@@ -5304,6 +5310,8 @@
             l.push(this.YI_JI[parseInt(js.substring(i, i+2), 16)]);
           }
         }
+        // 空值过滤：去除空字符串或仅空白项，避免展示问题
+        l = l.filter(function(item){ return item && (''+item).trim().length>0; });
         if(l.length<1){
           l.push(this.SHEN_SHA[0]);
         }
