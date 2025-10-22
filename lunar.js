@@ -7503,18 +7503,18 @@
         'yj.jiSi': '祭祀',
         'yj.qiFu': '祈福',
         'yj.qiuSi': '求嗣',
-        'yj.kaiGuang': '开光',
-        'yj.suHui': '塑绘',
-        'yj.qiJiao': '齐醮',
-        'yj.zhaiJiao': '斋醮',
+        'yj.kaiGuang': '', //原本为开光
+        'yj.suHui': '', //原本为塑绘
+        'yj.qiJiao': '', //原本为齐醮
+        'yj.zhaiJiao': '', //原本为斋醮
         'yj.muYu': '沐浴',
-        'yj.chouShen': '酬神',
-        'yj.zaoMiao': '造庙',
+        'yj.chouShen': '', //原本为酬神
+        'yj.zaoMiao': '', //原本为造庙
         'yj.siZhao': '祀灶',
-        'yj.fenXiang': '焚香',
-        'yj.xieTu': '谢土',
-        'yj.chuHuo': '出火',
-        'yj.diaoKe': '雕刻',
+        'yj.fenXiang': '', //原本为焚香
+        'yj.xieTu': '', //原本为谢土
+        'yj.chuHuo': '', //原本为出火
+        'yj.diaoKe': '', //原本为雕刻
         'yj.jiaQu': '嫁娶',
         'yj.DingHun': '订婚',
         'yj.naCai': '纳采',
@@ -7523,65 +7523,65 @@
         'yj.guiNing': '归宁',
         'yj.anChuang': '安床',
         'yj.heZhang': '合帐',
-        'yj.guanJi': '冠笄',
-        'yj.dingMeng': '订盟',
-        'yj.jinRenKou': '进人口',
+        'yj.guanJi': '', //原本为冠笄
+        'yj.dingMeng': '', //原本为订盟
+        'yj.jinRenKou': '', //原本为进人口
         'yj.caiYi': '裁衣',
-        'yj.wanMian': '挽面',
-        'yj.kaiRong': '开容',
-        'yj.xiuFen': '修坟',
-        'yj.qiZuan': '启钻',
-        'yj.poTu': '破土',
-        'yj.anZang': '安葬',
-        'yj.liBei': '立碑',
-        'yj.chengFu': '成服',
-        'yj.chuFu': '除服',
-        'yj.kaiShengFen': '开生坟',
-        'yj.heShouMu': '合寿木',
-        'yj.ruLian': '入殓',
-        'yj.yiJiu': '移柩',
-        'yj.puDu': '普渡',
+        'yj.wanMian': '', //原本为挽面
+        'yj.kaiRong': '', //原本为开容
+        'yj.xiuFen': '', //原本为修坟
+        'yj.qiZuan': '', //原本为启钻
+        'yj.poTu': '', //原本为破土
+        'yj.anZang': '', //原本为安葬
+        'yj.liBei': '', //原本为立碑
+        'yj.chengFu': '', //原本为成服
+        'yj.chuFu': '', //原本为除服
+        'yj.kaiShengFen': '', //原本为开生坟
+        'yj.heShouMu': '', //原本为合寿木
+        'yj.ruLian': '', //原本为入殓
+        'yj.yiJiu': '', //原本为移柩
+        'yj.puDu': '', //原本为普渡
         'yj.ruZhai': '入宅',
         'yj.anXiang': '安香',
         'yj.anMen': '安门',
         'yj.xiuZao': '修造',
         'yj.qiJi': '起基',
         'yj.dongTu': '动土',
-        'yj.shangLiang': '上梁',
-        'yj.shuZhu': '竖柱',
-        'yj.kaiJing': '开井开池',
-        'yj.zuoBei': '作陂放水',
-        'yj.chaiXie': '拆卸',
-        'yj.poWu': '破屋',
-        'yj.huaiYuan': '坏垣',
-        'yj.buYuan': '补垣',
-        'yj.faMuZuoLiang': '伐木做梁',
-        'yj.zuoZhao': '作灶',
-        'yj.jieChu': '解除',
-        'yj.kaiZhuYan': '开柱眼',
-        'yj.chuanPing': '穿屏扇架',
-        'yj.gaiWuHeJi': '盖屋合脊',
-        'yj.kaiCe': '开厕',
-        'yj.zaoCang': '造仓',
-        'yj.saiXue': '塞穴',
-        'yj.pingZhi': '平治道涂',
-        'yj.zaoQiao': '造桥',
-        'yj.zuoCe': '作厕',
-        'yj.zhuDi': '筑堤',
-        'yj.kaiChi': '开池',
-        'yj.faMu': '伐木',
-        'yj.kaiQu': '开渠',
-        'yj.jueJing': '掘井',
-        'yj.saoShe': '扫舍',
-        'yj.fangShui': '放水',
-        'yj.zaoWu': '造屋',
-        'yj.heJi': '合脊',
-        'yj.zaoChuChou': '造畜稠',
-        'yj.xiuMen': '修门',
-        'yj.dingSang': '定磉',
-        'yj.zuoLiang': '作梁',
+        'yj.shangLiang': '', //原本为上梁
+        'yj.shuZhu': '', //原本为竖柱
+        'yj.kaiJing': '', //原本为开井开池
+        'yj.zuoBei': '', //原本为作陂放水
+        'yj.chaiXie': '', //原本为拆卸
+        'yj.poWu': '', //原本为破屋
+        'yj.huaiYuan': '', //原本为坏垣
+        'yj.buYuan': '', //原本为补垣
+        'yj.faMuZuoLiang': '', //原本为伐木做梁
+        'yj.zuoZhao': '', //原本为作灶
+        'yj.jieChu': '', //原本为解除
+        'yj.kaiZhuYan': '', //原本为开柱眼
+        'yj.chuanPing': '', //原本为穿屏扇架
+        'yj.gaiWuHeJi': '', //原本为盖屋合脊
+        'yj.kaiCe': '', //原本为开厕
+        'yj.zaoCang': '', //原本为造仓
+        'yj.saiXue': '', //原本为塞穴
+        'yj.pingZhi': '', //原本为平治道涂
+        'yj.zaoQiao': '', //原本为造桥
+        'yj.zuoCe': '', //原本为作厕
+        'yj.zhuDi': '', //原本为筑堤
+        'yj.kaiChi': '', //原本为开池
+        'yj.faMu': '', //原本为伐木
+        'yj.kaiQu': '', //原本为开渠
+        'yj.jueJing': '', //原本为掘井
+        'yj.saoShe': '', //原本为扫舍
+        'yj.fangShui': '', //原本为放水
+        'yj.zaoWu': '', //原本为造屋
+        'yj.heJi': '', //原本为合脊
+        'yj.zaoChuChou': '', //原本为造畜稠
+        'yj.xiuMen': '', //原本为修门
+        'yj.dingSang': '', //原本为定磉
+        'yj.zuoLiang': '', //原本为作梁
         'yj.xiuShi': '修饰垣墙',
-        'yj.jiaMa': '架马',
+        'yj.jiaMa': '', //原本为架马
         'yj.kaiShi': '开市',
         'yj.guaBian': '挂匾',
         'yj.naChai': '纳财',
@@ -7591,19 +7591,19 @@
         'yj.zhiChan': '置产',
         'yj.guYong': '雇佣',
         'yj.chuHuoCai': '出货财',
-        'yj.anJiXie': '安机械',
-        'yj.zaoCheQi': '造车器',
-        'yj.jingLuo': '经络',
+        'yj.anJiXie': '', //原本为安机械
+        'yj.zaoCheQi': '', //原本为造车器
+        'yj.jingLuo': '', //原本为经络
         'yj.yunNiang': '酝酿',
-        'yj.zuoRan': '作染',
-        'yj.guZhu': '鼓铸',
-        'yj.zaoChuan': '造船',
-        'yj.geMi': '割蜜',
+        'yj.zuoRan': '', //原本为作染
+        'yj.guZhu': '', //原本为鼓铸
+        'yj.zaoChuan': '', //原本为造船
+        'yj.geMi': '', //原本为割蜜
         'yj.zaiZhong': '栽种',
         'yj.quYu': '取渔',
-        'yj.jieWang': '结网',
-        'yj.muYang': '牧养',
-        'yj.anDuiWei': '安碓磑',
+        'yj.jieWang': '', //原本为结网
+        'yj.muYang': '', //原本为牧养
+        'yj.anDuiWei': '', //原本为安碓磑
         'yj.xiYi': '习艺',
         'yj.ruXue': '入学',
         'yj.liFa': '理发',
@@ -7618,8 +7618,8 @@
         'yj.TiTou': '剃头',
         'yj.zhengShou': '整手足甲',
         'yj.naChu': '纳畜',
-        'yj.buZhuo': '捕捉',
-        'yj.tianLie': '畋猎',
+        'yj.buZhuo': '', //原本为捕捉
+        'yj.tianLie': '', //原本为畋猎
         'yj.jiaoNiuMa': '教牛马',
         'yj.huiQinYou': '会亲友',
         'yj.fuRen': '赴任',
@@ -7640,7 +7640,7 @@
         'yj.yuShi': '馀事勿取',
         'yj.xingSang': '行丧',
         'yj.duanYi': '断蚁',
-        'yj.guiXiu': '归岫',
+        'yj.guiXiu': '', //原本为归岫
         'xx.bi': '毕',
         'xx.yi': '翼',
         'xx.ji': '箕',
